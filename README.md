@@ -29,8 +29,8 @@ Afins de aprendizado (consumo de api's e afins)
 
 Contributors names and contact info
 
-[@iuri](https://www.linkedin.com/in/iuri-rodrigues/)
-api utilizada no projeto [labdo](https://api-cotacao-b3.labdo.it)
+* [@iuri](https://www.linkedin.com/in/iuri-rodrigues/)
+* api utilizada no projeto [labdo](https://api-cotacao-b3.labdo.it)
 
 ## Version History
 
